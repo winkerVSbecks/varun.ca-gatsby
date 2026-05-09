@@ -69,3 +69,5 @@ yarn-error.log
 .yarn-integrity
 
 *.code-workspace
+*storybook.log
+storybook-static

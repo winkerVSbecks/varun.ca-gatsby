@@ -59,7 +59,18 @@
   },
   "devDependencies": {
     "babel-plugin-glsl": "^1.0.0",
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "storybook": "10.4.0-alpha.18",
+    "@storybook/react-vite": "10.4.0-alpha.18",
+    "@chromatic-com/storybook": "^5.1.2",
+    "@storybook/addon-vitest": "10.4.0-alpha.18",
+    "@storybook/addon-a11y": "10.4.0-alpha.18",
+    "@storybook/addon-docs": "10.4.0-alpha.18",
+    "@storybook/addon-mcp": "^0.6.0",
+    "vitest": "^4.1.5",
+    "playwright": "^1.59.1",
+    "@vitest/browser-playwright": "^4.1.5",
+    "@vitest/coverage-v8": "^4.1.5"
   },
   "keywords": [
     "gatsby"
@@ -71,7 +82,9 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "NODE_OPTIONS=--openssl-legacy-provider npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "repository": {
     "type": "git",
