@@ -3,7 +3,17 @@
     "allow": [
       "Bash(rtk ls *)",
       "Bash(rtk read *)",
-      "Bash(rtk npx *)"
+      "Bash(rtk npx *)",
+      "Bash(rtk ps *)",
+      "Bash(pkill -f \"storybook\")",
+      "Bash(tee /tmp/storybook-init.log)",
+      "Bash(rtk grep *)",
+      "Bash(/usr/bin/grep *)",
+      "Bash(rtk vitest *)",
+      "Bash(command rtk find /Users/varunvachhar/Documents/projects/varun.ca/node_modules -maxdepth 4 -name 'plugin-react*' -type d)",
+      "Bash(command rtk find /Users/varunvachhar/Documents/projects/varun.ca/node_modules -maxdepth 5 -type d \\\\\\( -name \"plugin-react\" -o -name \"plugin-react-oxc\" -o -name \"plugin-react-swc\" \\\\\\))",
+      "Bash(command rtk find /Users/varunvachhar/Documents/projects/varun.ca/node_modules/rolldown/ -name \"*.d.ts\")",
+      "Bash(command rtk find /Users/varunvachhar/Documents/projects/varun.ca/node_modules/rolldown -name \"*.mjs\")"
     ]
   }
 }

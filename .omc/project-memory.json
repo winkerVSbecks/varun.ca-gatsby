@@ -173,15 +173,111 @@
   },
   "hotPaths": [
     {
-      "path": "README.md",
-      "accessCount": 1,
-      "lastAccessed": 1778289296224,
+      "path": ".storybook/preview.jsx",
+      "accessCount": 3,
+      "lastAccessed": 1778289883695,
+      "type": "file"
+    },
+    {
+      "path": ".storybook/main.js",
+      "accessCount": 3,
+      "lastAccessed": 1778290310099,
       "type": "file"
     },
     {
       "path": "package.json",
+      "accessCount": 2,
+      "lastAccessed": 1778289550225,
+      "type": "file"
+    },
+    {
+      "path": "src/layouts/layout.js",
+      "accessCount": 2,
+      "lastAccessed": 1778289658210,
+      "type": "file"
+    },
+    {
+      "path": "src/use-color-mode.js",
+      "accessCount": 2,
+      "lastAccessed": 1778289661072,
+      "type": "file"
+    },
+    {
+      "path": "src/theme/theme.js",
+      "accessCount": 2,
+      "lastAccessed": 1778289665538,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/index.js",
+      "accessCount": 2,
+      "lastAccessed": 1778289674090,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/buttons.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290348412,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/primitives.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290351409,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/typography.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290356014,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/lists.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290358991,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/links.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290362135,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/input.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290368061,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/blockquote.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290371362,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/page-header.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290374926,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/icon.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290378280,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/stack.stories.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1778290383053,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
       "accessCount": 1,
-      "lastAccessed": 1778289296587,
+      "lastAccessed": 1778289296224,
       "type": "file"
     },
     {
@@ -227,12 +323,6 @@
       "type": "file"
     },
     {
-      "path": "src/layouts/layout.js",
-      "accessCount": 1,
-      "lastAccessed": 1778289308802,
-      "type": "file"
-    },
-    {
       "path": "src/layouts/ds-to-mdx.js",
       "accessCount": 1,
       "lastAccessed": 1778289309181,
@@ -245,27 +335,141 @@
       "type": "file"
     },
     {
-      "path": "src/design-system/index.js",
-      "accessCount": 1,
-      "lastAccessed": 1778289312521,
-      "type": "file"
-    },
-    {
-      "path": "src/theme/theme.js",
-      "accessCount": 1,
-      "lastAccessed": 1778289313326,
-      "type": "file"
-    },
-    {
-      "path": "src/use-color-mode.js",
-      "accessCount": 1,
-      "lastAccessed": 1778289313696,
-      "type": "file"
-    },
-    {
       "path": "CLAUDE.md",
       "accessCount": 1,
       "lastAccessed": 1778289380705,
+      "type": "file"
+    },
+    {
+      "path": "vitest.config.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289587801,
+      "type": "file"
+    },
+    {
+      "path": "src/theme/colors.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289668450,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/buttons.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289679643,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/primitives.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289685048,
+      "type": "file"
+    },
+    {
+      "path": "src/theme/index.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289735906,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/typography.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289801346,
+      "type": "file"
+    },
+    {
+      "path": ".storybook/gatsby-stub.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778289851717,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/links.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289946600,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/blockquote.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289961685,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/page-header.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289971465,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/stack.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289993132,
+      "type": "file"
+    },
+    {
+      "path": "src/theme/color-mode-styles.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289998001,
+      "type": "file"
+    },
+    {
+      "path": "src/components/call-out.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290692794,
+      "type": "file"
+    },
+    {
+      "path": "src/components/date.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290697500,
+      "type": "file"
+    },
+    {
+      "path": "src/components/footer.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290703288,
+      "type": "file"
+    },
+    {
+      "path": "src/components/global-header.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290709923,
+      "type": "file"
+    },
+    {
+      "path": "src/components/profile-links.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290720333,
+      "type": "file"
+    },
+    {
+      "path": "src/components/newsletter.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290735486,
+      "type": "file"
+    },
+    {
+      "path": "src/components/cycle-mode.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290739939,
+      "type": "file"
+    },
+    {
+      "path": "src/components/post-list.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290750166,
+      "type": "file"
+    },
+    {
+      "path": "src/components/writing-featured.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290758179,
+      "type": "file"
+    },
+    {
+      "path": "src/components/talk-list.stories.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1778290765856,
       "type": "file"
     }
   ],

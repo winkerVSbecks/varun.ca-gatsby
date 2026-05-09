@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"command rtk grep -E \\\"plugin-react|react/swc|oxc-plugin-react|react-vite\\\" /Users/varunvachhar/Documents/projects/varun.ca/node_modules/@storybook/react-vite/dist/preset.js 2>/dev/null | h...",
+  "error": "Exit code 1\n    (await import(\"@joshwooding/vite-plugin-react-docgen-typescript\")).default({\n---",
+  "timestamp": "2026-05-09T01:29:17.403Z",
+  "retry_count": 1
+}
