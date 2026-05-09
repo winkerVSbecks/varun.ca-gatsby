@@ -1,0 +1,273 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778289283409,
+  "projectRoot": "/Users/varunvachhar/Documents/projects/varun.ca",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "jsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "react",
+        "version": "17.0.2",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "17.0.2",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "npm run build",
+    "testCommand": "npm test",
+    "lintCommand": null,
+    "devCommand": "npm run start",
+    "scripts": {
+      "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+      "develop": "gatsby develop",
+      "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+      "start": "NODE_OPTIONS=--openssl-legacy-provider npm run develop",
+      "serve": "gatsby serve",
+      "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": "type-based"
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "public",
+      "src",
+      "static"
+    ],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "content": {
+      "path": "content",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1778289283375,
+      "keyFiles": []
+    },
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 5,
+      "lastAccessed": 1778289283376,
+      "keyFiles": [
+        "experiments.json",
+        "projects.json",
+        "sketches.json",
+        "speaking.json",
+        "works.json"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 14,
+      "lastAccessed": 1778289283383,
+      "keyFiles": [
+        "0.render-page.js",
+        "0.render-page.js.map",
+        "_redirects",
+        "favicon-32x32.png",
+        "humans.txt"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 1,
+      "lastAccessed": 1778289283384,
+      "keyFiles": [
+        "use-color-mode.js"
+      ]
+    },
+    "static": {
+      "path": "static",
+      "purpose": "Static files",
+      "fileCount": 7,
+      "lastAccessed": 1778289283384,
+      "keyFiles": [
+        "_redirects",
+        "humans.txt",
+        "triangle.png",
+        "varun-toy.jpg",
+        "varun.jpg"
+      ]
+    },
+    "content/assets": {
+      "path": "content/assets",
+      "purpose": "Static assets",
+      "fileCount": 206,
+      "lastAccessed": 1778289283385,
+      "keyFiles": [
+        "all-the-messages.png",
+        "amoeba.gif",
+        "angle.gif"
+      ]
+    },
+    "src/components": {
+      "path": "src/components",
+      "purpose": "UI components",
+      "fileCount": 24,
+      "lastAccessed": 1778289283386,
+      "keyFiles": [
+        "call-out.js",
+        "codepen.js",
+        "cycle-mode.js"
+      ]
+    },
+    "src/pages": {
+      "path": "src/pages",
+      "purpose": "Page components",
+      "fileCount": 5,
+      "lastAccessed": 1778289283387,
+      "keyFiles": [
+        "404.js",
+        "index.js",
+        "sketches.js"
+      ]
+    },
+    "src/utils": {
+      "path": "src/utils",
+      "purpose": "Utility functions",
+      "fileCount": 3,
+      "lastAccessed": 1778289283387,
+      "keyFiles": [
+        "use-colors.js",
+        "useInView.js",
+        "useIntersection.js"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1778289296224,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 1,
+      "lastAccessed": 1778289296587,
+      "type": "file"
+    },
+    {
+      "path": "gatsby-config.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289296955,
+      "type": "file"
+    },
+    {
+      "path": "gatsby-node.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289297302,
+      "type": "file"
+    },
+    {
+      "path": "jsconfig.json",
+      "accessCount": 1,
+      "lastAccessed": 1778289302229,
+      "type": "file"
+    },
+    {
+      "path": ".prettierrc",
+      "accessCount": 1,
+      "lastAccessed": 1778289302599,
+      "type": "file"
+    },
+    {
+      "path": "gatsby-browser.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289303494,
+      "type": "file"
+    },
+    {
+      "path": "gatsby-ssr.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289303594,
+      "type": "file"
+    },
+    {
+      "path": "src/layouts/post-layout.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289307968,
+      "type": "file"
+    },
+    {
+      "path": "src/layouts/layout.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289308802,
+      "type": "file"
+    },
+    {
+      "path": "src/layouts/ds-to-mdx.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289309181,
+      "type": "file"
+    },
+    {
+      "path": "src/pages/index.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289309403,
+      "type": "file"
+    },
+    {
+      "path": "src/design-system/index.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289312521,
+      "type": "file"
+    },
+    {
+      "path": "src/theme/theme.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289313326,
+      "type": "file"
+    },
+    {
+      "path": "src/use-color-mode.js",
+      "accessCount": 1,
+      "lastAccessed": 1778289313696,
+      "type": "file"
+    },
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 1,
+      "lastAccessed": 1778289380705,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
